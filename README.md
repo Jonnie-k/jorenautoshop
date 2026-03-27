@@ -1,6 +1,6 @@
-Jorenautoshop
+JORENAUTOSHOP
 
-Joren auto shop is a simple multi-page website for a car auto repair business. The website is designed to showcase services, pricing, and allow customers to contact the business easily.
+Jorenautoshop is a simple multi-page website for a car auto repair business. The website is designed to showcase services, pricing, and allow customers to contact the business easily.
 
 Features
 
